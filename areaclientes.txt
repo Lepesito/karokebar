@@ -1,1 +1,3 @@
 este es el area de clientes de la casa
+
+el cambio que se le hizo, fue que se añadio un area para que los clientes se sienten
